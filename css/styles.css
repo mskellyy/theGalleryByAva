@@ -1,13 +1,13 @@
 @font-face {
   font-family: "Fairytail";
-  src: url(css/fonts/fairytale.otf) format("opentype");
+  src: url(fonts/fairytale.otf) format("opentype");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Fairytail Italic";
-  src: url(css/fonts/fairytale-italic.otf) format("opentype");
+  src: url(fonts/fairytale-italic.otf) format("opentype");
   font-weight: normal;
   font-style: italic;
 }
@@ -21,4 +21,5 @@ h1 {
   text-align: center;
   font-size: 60px;
   color: white;
+  margin-top: 50px;
 }
